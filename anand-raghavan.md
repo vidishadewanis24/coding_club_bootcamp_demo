@@ -1,7 +1,7 @@
 # Anand Raghavan
 
 ## About Me:
-Hi! I'm Anand, I'm a first year Computer Science student. I have the shortest birthday in the world and have a score higher than 99.7% in the Microsoft Edge Surf game.
+Hi! I'm Anand, I'm a first year Computer Science student. I have the shortest possible birthday a score of 40,000 in the Microsoft Edge Surf game.
 
 ## Interests:
 - Photography

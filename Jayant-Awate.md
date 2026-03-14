@@ -2,7 +2,7 @@
 
 ## About me 
 - I am Jayant Awate hailing from Kalaburagi, Karnataka. I am pursuing B.E in Computer Science and Engineering (CSE) from RV College of Engineering.
-- Whenver I learn anything, I always want to know how it works from the root and learn it effectively rather than just mugging up it.
+- Whenever I learn anything, I always want to know how it works from the root and learn it effectively.
 ## Intrests
 - Computer Networking & System Architechture.
 - Cloud Computing.

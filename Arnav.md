@@ -1,4 +1,3 @@
-# ABOUT ME
 Hi, this is Arnav from the Electronics and Telecommunication branch. There isn’t much to say about myself, but here’s a brief introduction. I am a huge—HUGE—football enthusiast. I love watching football and enjoy playing the game whenever I get the chance.
 
 Although I have not yet begun working on a long-term project, I have recently started developing an idea that I hope could eventually grow into a startup. In my first EL, I worked on a simple model for traffic management at a railway level crossing. That project sparked my interest in building practical solutions, and starting from this semester, I am determined to work on something much bigger and more impactful.

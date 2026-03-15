@@ -1,0 +1,1 @@
+# Hi I am Tejash Pathak and this is my assignment for the 1st day of bootcamp. Really exciteed to learfn more things from the bootcamp.

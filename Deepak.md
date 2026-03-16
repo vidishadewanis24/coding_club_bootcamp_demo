@@ -1,0 +1,1 @@
+# Hi I am Deepak sipani of the data science branch  from the 1st year and I am very thankful to all the mebers of the team taking so much efforts for the juniors to teach the web development lokking forward to learn from all the seniors

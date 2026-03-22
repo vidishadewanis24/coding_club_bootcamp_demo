@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    font-family: cursive ;
+    font-size: large;
+    background-color: #9f149f;
+    background-size: cover;
+    background-image:url(cai_background_1.jpg) ;
+    text-transform: capitalize;
+}
+#main{
+    height: 100vh;
+}
+img{
+    height : 200px;
+    border-radius: 50%;
+}
+#taskmanager{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#btn{
+    background-color: transparent;
+    border-radius: 10%;
+    border: transparent;
+}
+#img{
+    width: 50px;
+    height: 50px;
+}
+#maincon{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 5px;
+    column-gap: 10px;
+    height: 47vh;
+}
+#input-container {
+  display: flex;
+  width: fit-content;
+  /*flex-direction: column; */
+  /* flex-flow: column wrap;  */
+  /* Stack vertically, wrap to next column */
+  /* align-content: flex-start; Keeps columns tight to the left */
+  /* height: 47vh; Essential: The 'particular space' limit */
+  /* gap: 10px; */
+  /* position: relative; */
+}
+
+#inner-text {
+  /* width: 100%; */
+  padding: 10px 40px 10px 10px; /* Extra right padding for the checkbox space */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  /* box-sizing: border-box; */
+}
+
+#check1 {
+  /* position: absolute; */
+  /* right: 10px; */
+  /* top: 50%; */
+  /* transform: translateY(-50%); Centers the checkbox vertically */
+  cursor: pointer;
+}
